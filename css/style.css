@@ -139,7 +139,7 @@ body{
 .top__info{
     padding-top: 115px;
     flex-grow: 1;
-    background-image: url(/img/illustration.png);
+    background-image: url(img/illustration.png);
     background-repeat: no-repeat;
     background-position: right center;
 }
